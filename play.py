@@ -28,7 +28,7 @@ def createTable(dataList):
 #ask For element
 
 def askForElement():
-    selectContainer = input('Ingresa la letra de la  casilla que deseas seleccionar \n')
+    selectContainer = input('Ingresa la letra de la  casilla que deseas seleccionar \n').upper()
 
     if selectContainer == 'G': return 0
     elif selectContainer == 'H': return 1
@@ -246,7 +246,7 @@ def validateEndGame(player):
     else: return 0
 
 def gameMode():
-    mode = input('A: Un jugador \n' 'B: Dos jugadores \n')
+    mode = input('A: Un jugador \n' 'B: Dos jugadores \n').upper()
     if mode == 'A': return True
     elif mode == 'B': return False
 
