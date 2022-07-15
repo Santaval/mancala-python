@@ -26,6 +26,13 @@ pip install colorama
 pip install tabulate
 ```
 
+## Play 
+
+Execute the game
+
+```bash
+py play.py
+```
 
 
 
