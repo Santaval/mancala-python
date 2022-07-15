@@ -7,7 +7,7 @@ Traditional game "Mancala" developed in Python. It consists of all the rules as 
 Clone this repository using git
 
 ```bash
-git clone https://github.com/Santaval/mancala-py
+git clone https://github.com/Santaval/mancala-python
 ```
 
 ## Dependencies
