@@ -1,4 +1,4 @@
-# Mancala-py
+# Mancala-python
 Traditional game "Mancala" developed in Python. It consists of all the rules as well as two game modes: one player and two players.
 
 
